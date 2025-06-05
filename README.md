@@ -71,12 +71,12 @@ NOT GATE
 
 ![Screenshot 2025-02-27 162013](https://github.com/user-attachments/assets/238a8d5f-6a02-4690-8b27-5e06ac418c02)
 
-NAND GATE
+NOR GATE
 
 
 ![Screenshot 2025-02-27 162021](https://github.com/user-attachments/assets/8c99dfd8-8172-4765-b88e-65ef8fdd3f8d)
 
-NOR GATE
+NAND GATE
 
 
 ![Screenshot 2025-02-27 162027](https://github.com/user-attachments/assets/dd7b9bac-3383-4d2b-98d3-04c3ab96a835)
