@@ -174,7 +174,7 @@ XOR GATE
 
 ![Screenshot 2025-02-28 091121](https://github.com/user-attachments/assets/f6543ae6-34fe-4e19-82ed-e1d201b792af)
 
-#Results:
+# Results:
 The ladder logic programs for each logic gate were successfully implemented and simulated.
 The outputs observed matched the expected results as per the truth tables of the respective logic gates.
 This experiment demonstrates the effective use of PLCs in executing digital logic operations, which are fundamental to industrial control systems.
